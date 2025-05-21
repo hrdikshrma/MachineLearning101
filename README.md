@@ -7,7 +7,6 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 
 - ✅ Hands-on code implementations of fundamental ML algorithms
 - ✅ Step-by-step explanations with inline comments
-- ✅ Real-world datasets for practical practice
 - ✅ Jupyter Notebooks + Python scripts
 - ✅ Interview-style questions and problem-solving
 
@@ -36,6 +35,7 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - Cover Deep Learning basics
 - Add interview-specific question-answer sets
 - Integrate model performance visualizations
+- Real-world datasets for practical practice
 
 ## 🤝 Contributing
 

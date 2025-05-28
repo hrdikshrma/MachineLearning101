@@ -12,7 +12,7 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 
 ## 📚 Topics to be covered
 
-- Linear Regression
+- Linear Regression 
 - Logistic Regression
 - Decision Trees
 - K-Nearest Neighbors
@@ -36,6 +36,10 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - Add interview-specific question-answer sets
 - Integrate model performance visualizations
 - Real-world datasets for practical practice
+
+## 🔗 Useful Links
+- [Linear Regression in Machine Learning](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/#h-simple-linear-regression)
+- [Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/)
 
 ## 🤝 Contributing
 

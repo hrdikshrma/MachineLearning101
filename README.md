@@ -40,6 +40,7 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 ## 🔗 Useful Links
 - [Linear Regression in Machine Learning](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/#h-simple-linear-regression)
 - [Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/)
+- [Logistic Regression in Machine Learning](https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/)
 
 ## 🤝 Contributing
 

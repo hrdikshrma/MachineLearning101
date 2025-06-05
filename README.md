@@ -41,6 +41,8 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Linear Regression in Machine Learning](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/#h-simple-linear-regression)
 - [Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/)
 - [Logistic Regression in Machine Learning](https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/)
+- [Support Vector Machine (SVM)](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
+- -[Implementing Support Vector Regression for Predictions in Python](https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927)
 
 ## 🤝 Contributing
 

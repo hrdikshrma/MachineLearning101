@@ -43,6 +43,8 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Logistic Regression in Machine Learning](https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/)
 - [Support Vector Machine (SVM)](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
 - [Implementing Support Vector Regression for Predictions in Python](https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927)
+- [Naïve Bayes Algorithm](https://medium.com/analytics-vidhya/na%C3%AFve-bayes-algorithm-5bf31e9032a2)
+- [Naive Bayes Algorithms: A Complete Guide for Beginners](https://www.analyticsvidhya.com/blog/2023/01/naive-bayes-algorithms-a-complete-guide-for-beginners/)
 
 ## 🤝 Contributing
 

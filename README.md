@@ -45,6 +45,8 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Implementing Support Vector Regression for Predictions in Python](https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927)
 - [Naïve Bayes Algorithm](https://medium.com/analytics-vidhya/na%C3%AFve-bayes-algorithm-5bf31e9032a2)
 - [Naive Bayes Algorithms: A Complete Guide for Beginners](https://www.analyticsvidhya.com/blog/2023/01/naive-bayes-algorithms-a-complete-guide-for-beginners/)
+- [Introduction to KNN Algorithms](https://www.analyticsvidhya.com/blog/2022/01/introduction-to-knn-algorithms/)
+- [K-Nearest Neighbour: The Distance-Based Machine Learning Algorithm](https://www.analyticsvidhya.com/blog/2021/05/knn-the-distance-based-machine-learning-algorithm/)
 
 ## 🤝 Contributing
 

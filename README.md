@@ -3,6 +3,8 @@
 
 Welcome to **MachineLearning101**! This repository is a personal compilation of Machine Learning codes implementations. It is structured to reinforce learning from first principles and help with interview preparation in Data Science and Machine Learning roles.
 
+**NOTE:** The goal of the above codes is not to get the best results on a given dataset. The primary objective is to examine how a model is implemented. Kindly look into in-depth performance-enhancing techniques depending on your data.
+
 ## 🧠 What's Inside
 
 - ✅ Hands-on code implementations of fundamental ML algorithms
@@ -47,6 +49,9 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Naive Bayes Algorithms: A Complete Guide for Beginners](https://www.analyticsvidhya.com/blog/2023/01/naive-bayes-algorithms-a-complete-guide-for-beginners/)
 - [Introduction to KNN Algorithms](https://www.analyticsvidhya.com/blog/2022/01/introduction-to-knn-algorithms/)
 - [K-Nearest Neighbour: The Distance-Based Machine Learning Algorithm](https://www.analyticsvidhya.com/blog/2021/05/knn-the-distance-based-machine-learning-algorithm/)
+- [Decision Tree Regressor, Explained: A Visual Guide with Code Examples](https://towardsdatascience.com/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef/)
+- [Decision Trees: A Complete Introduction With Examples](https://medium.com/@MrBam44/decision-trees-91f61a42c724)
+- [Chapter 4: Decision Trees Algorithms](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
 
 ## 🤝 Contributing
 

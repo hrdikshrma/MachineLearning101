@@ -54,6 +54,7 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Chapter 4: Decision Trees Algorithms](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
 - [Bagging, Boosting and Stacking: Ensemble Learning in ML Models](https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/#h-what-is-bagging)
 - [Random Forest Algorithm in Machine Learning](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
+- [Guide on AdaBoost Algorithm](https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/)
 
 ## 🤝 Contributing
 

@@ -52,6 +52,8 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Decision Tree Regressor, Explained: A Visual Guide with Code Examples](https://towardsdatascience.com/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef/)
 - [Decision Trees: A Complete Introduction With Examples](https://medium.com/@MrBam44/decision-trees-91f61a42c724)
 - [Chapter 4: Decision Trees Algorithms](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
+- [Bagging, Boosting and Stacking: Ensemble Learning in ML Models](https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/#h-what-is-bagging)
+- [Random Forest Algorithm in Machine Learning](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
 
 ## 🤝 Contributing
 

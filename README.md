@@ -20,6 +20,9 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - K-Nearest Neighbors
 - Naive Bayes
 - Support Vector Machines
+- Decision Trees
+- Random Forest
+- Bagging and Boosting
 - Clustering (K-Means, Hierarchical)
 - Principal Component Analysis
 - Model Evaluation Techniques
@@ -55,6 +58,8 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Bagging, Boosting and Stacking: Ensemble Learning in ML Models](https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/#h-what-is-bagging)
 - [Random Forest Algorithm in Machine Learning](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
 - [Guide on AdaBoost Algorithm](https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/)
+- [K-Means Clustering Algorithm](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+- [What is Hierarchical Clustering in Python?](https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/)
 
 ## 🤝 Contributing
 

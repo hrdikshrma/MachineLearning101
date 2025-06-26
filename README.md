@@ -58,8 +58,15 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 - [Bagging, Boosting and Stacking: Ensemble Learning in ML Models](https://www.analyticsvidhya.com/blog/2023/01/ensemble-learning-methods-bagging-boosting-and-stacking/#h-what-is-bagging)
 - [Random Forest Algorithm in Machine Learning](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
 - [Guide on AdaBoost Algorithm](https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/)
+- [Introduction to the Gradient Boosting Algorithm](https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b)
+- [Gradient Boosting : Guide for Beginners](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
+- [What is XGBoost Algorithm?](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 - [K-Means Clustering Algorithm](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
 - [What is Hierarchical Clustering in Python?](https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/)
+- [Perceptron: Building Block of Artificial Neural Network](https://www.analyticsvidhya.com/blog/2021/10/perceptron-building-block-of-artificial-neural-network/)
+- [FeedForward Neural Networks: Layers, Functions, and Importance](https://www.analyticsvidhya.com/blog/2022/01/feedforward-neural-network-its-layers-functions-and-importance/)
+- [Multi-Layer Perceptrons: Notations and Trainable Parameters](https://www.analyticsvidhya.com/blog/2022/10/multi-layer-perceptrons-notations-and-trainable-parameters/)
+- [Understanding ReLU, LeakyReLU, and PReLU: A Comprehensive Guide](https://medium.com/@juanc.olamendy/understanding-relu-leakyrelu-and-prelu-a-comprehensive-guide-20f2775d3d64)
 
 ## 🤝 Contributing
 

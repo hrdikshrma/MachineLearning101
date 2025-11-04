@@ -7,7 +7,7 @@ Welcome to **MachineLearning101**! This repository is a personal compilation of 
 
 ## 🧠 What's Inside
 
-- [x] Hands-on code implementations of fundamental ML algorithms
+- ✅ Hands-on code implementations of fundamental ML algorithms
 - ✅ Step-by-step explanations with inline comments
 - ✅ Jupyter Notebooks + Python scripts
 - ✅ Interview-style questions and problem-solving
